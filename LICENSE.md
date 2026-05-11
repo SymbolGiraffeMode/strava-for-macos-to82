@@ -1,4 +1,4 @@
-
+advanced MyFitnessPal for macOS Automation | sync-with-wearables + GPS-tracking is the best MyFitnessPal for macOS automation, featuring sync-with-wearables and GPS-tracking.
 
 
 
